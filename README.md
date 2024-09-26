@@ -1,9 +1,10 @@
-
-
-
-# awesomedev
-## h2
-### h3
-#### h4
-
-[Google](https://Google.ca)
+- git init
+- git status
+- git log
+- git add
+- git commit
+- git checkout
+- git clone
+- git branch
+- git push
+- git pull
